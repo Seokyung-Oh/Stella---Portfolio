@@ -1,6 +1,6 @@
 # Stella (Seokyung) Oh – Engineering Portfolio
 
-📄 **[Download Full Portfolio (PDF)](https://github.com/Seokyung-Oh/Stella---Portfolio/raw/main/Stella_Oh_Portfolio.pdf)**  
+**[Download Full Portfolio (PDF)](https://github.com/Seokyung-Oh/Stella---Portfolio/raw/main/Stella_Oh_Portfolio.pdf)**  
 
 ---
 
@@ -15,18 +15,19 @@
 **Powertrain Optimization Research Intern** – Future Transport Power Lab, KAIST (Sep 2023 – Aug 2024)  
 - Simulated and calibrated Hyundai diesel engine with two-stage turbocharger using GT-Power  
 - Validated simulation models against experimental data (≤6% deviation)  
-- Collaborated with Hanwha Aerospace and BorgWarner Korea  
+- Collaborated with Hanwha Aerospace and BorgWarner Korea on performance analysis  
 
 **Battery Research Intern** – KAIST (May 2022 – Aug 2022)  
-- Performed environmental chamber and chassis dynamometer testing on lithium-ion batteries  
-- Applied Statistical Process Control (SPC) and Design of Experiments (DOE) for performance analysis  
+- Conducted environmental chamber, chassis dynamometer, and road testing on lithium-ion batteries  
+- Collected and analyzed voltage, temperature, and current data using MATLAB  
+- Evaluated battery durability and well-to-wheel CO₂ emissions  
 
 ---
 
 ## Projects
-- **Lean Six Sigma Quality Improvement** – Applied DMAIC, SPC, and regression to reduce defects  
-- **Spring-Loaded Ball Launcher** – Performed FMEA and DOE for process optimization  
-- **At-Source Waste Separation System** – Designed SolidWorks prototype with GD&T annotations  
+- **Lean Six Sigma Quality Improvement** – Applied DMAIC and statistical tools to reduce defects in a footwear manufacturing process  
+- **Spring-Loaded Ball Launcher** – Performed FMEA and DOE to optimize design and improve consistency  
+- **At-Source Waste Separation System** – Designed SolidWorks prototype with GD&T annotations and mechanical testing  
 
 ---
 
@@ -36,6 +37,6 @@
 
 ---
 
-**LinkedIn:** [linkedin.com/in/seokyungoh](https://www.linkedin.com/in/seokyungoh)  
-**Portfolio Site:** [sites.google.com/view/seokyung-oh](https://sites.google.com/view/seokyung-oh)  
-**Email:** ohseokyung1219@gmail.com  
+ **LinkedIn:** [linkedin.com/in/seokyungoh](https://www.linkedin.com/in/seokyungoh)  
+ **Portfolio Site:** [sites.google.com/view/seokyung-oh](https://sites.google.com/view/seokyung-oh)  
+ **Email:** ohseokyung1219@gmail.com  
