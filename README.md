@@ -1,6 +1,6 @@
 # Stella (Seokyung) Oh – Engineering Portfolio
 
-**[Download Full Portfolio (PDF)](https://github.com/Seokyung-Oh/Stella---Portfolio/raw/main/Stella_Oh_Portfolio.pdf)**  
+📄 **[Download Full Portfolio (PDF)](https://github.com/Seokyung-Oh/Stella---Portfolio/raw/main/Portfolio%20-%20Seokyung%20Oh.pdf)**
 
 ---
 
