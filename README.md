@@ -15,7 +15,7 @@
 **Powertrain Optimization Research Intern** – Future Transport Power Lab, KAIST (Sep 2023 – Aug 2024)  
 - Simulated and calibrated Hyundai diesel engine with two-stage turbocharger using GT-Power  
 - Validated simulation models against experimental data (≤6% deviation)  
-- Collaborated with Hanwha Aerospace and BorgWarner Korea on performance analysis  
+- Collaborated with industry partners on performance analysis  
 
 **Battery Research Intern** – KAIST (May 2022 – Aug 2022)  
 - Conducted environmental chamber, chassis dynamometer, and road testing on lithium-ion batteries  
