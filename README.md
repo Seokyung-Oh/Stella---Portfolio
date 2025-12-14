@@ -2,7 +2,7 @@
 
 Mechanical Engineering graduate with experience in **R&D, system-level simulation, and process improvement**, supported by research internships and applied engineering projects.
 
-📄 **[Download Full Engineering Portfolio (PDF)](portfolio/Stella_Oh_Engineering_Portfolio.pdf)**
+📄 **[Download Full Engineering Portfolio (PDF)](https://raw.githubusercontent.com/Seokyung-Oh/Stella---Portfolio/main/Portfolio%20-%20Seokyung%20Oh.pdf)**
 
 ---
 
