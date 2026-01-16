@@ -1,49 +1,42 @@
-# Stella (Seokyung) Oh – Engineering Portfolio
+## About
 
-Mechanical Engineering graduate with experience in **R&D, system-level simulation, and process improvement**, supported by research internships and applied engineering projects.
+Mechanical Engineering graduate with experience in **powertrain system simulation, data analysis, and manufacturing process improvement**, developed through research internships and hands-on engineering projects. Focused on translating simulation, test data, and shop-floor observations into practical engineering insights.
 
 📄 **[Download Full Engineering Portfolio (PDF)](https://raw.githubusercontent.com/Seokyung-Oh/Stella---Portfolio/main/Portfolio%20-%20Seokyung%20Oh.pdf)**
 
 ---
 
 ## Education
+
 **BASc in Mechanical Engineering**  
 University of Toronto  
-Specialization: Energy & Environment, Mechatronics  
+Specializations: Energy & Environment, Mechatronics  
 Minor: Sustainable Energy  
 
 ---
 
-## Professional Experience
+## Experience
+
+### Process Engineering Intern  
+**IKO North America** | Brampton, Canada | Nov 2025 – Present  
+- Conduct internal process audits to verify Standard Work Instruction (SWI) adherence and identify compliance gaps  
+- Create and update **20+ SWIs** by observing operator methods and aligning documentation with shop-floor operations  
+- Perform regular 5S audits across production areas to support workplace organization and sustainment  
+- Review P&IDs to identify hot-oil and asphalt isolation valves and support troubleshooting activities  
+- Collaborate with operators, maintenance, and production teams to validate process changes and support continuous improvement initiatives  
+
+---
 
 ### Powertrain Optimization Research Intern  
 **Future Transport Power Lab, KAIST** | Sep 2023 – Aug 2024  
-- Simulated and calibrated a Hyundai diesel engine with a two-stage turbocharger using **GT-Power**  
-- Validated simulation models against experimental data (≤6% deviation)  
-- Conducted performance analysis in collaboration with industry partners  
+- Performed **system-level simulation and calibration** of a diesel engine with a two-stage turbocharger using **GT-Power**  
+- Validated simulation models against experimental data and reduced prediction error to **≤6%**  
+- Analyzed engine performance and efficiency trends in collaboration with academic and industry partners  
+
+---
 
 ### Battery Research Intern  
 **KAIST** | May 2022 – Aug 2022  
-- Conducted environmental chamber, chassis dynamometer, and road testing on lithium-ion batteries  
-- Collected and analyzed voltage, temperature, and current data using **MATLAB**  
-- Evaluated battery durability and well-to-wheel CO₂ emissions  
-
----
-
-## Selected Engineering Projects
-- **Lean Six Sigma Quality Improvement** – Applied DMAIC and statistical tools to reduce defects in a footwear manufacturing process  
-- **Spring-Loaded Ball Launcher** – Performed FMEA and DOE to optimize design consistency  
-- **At-Source Waste Separation System** – Designed SolidWorks prototype with GD&T annotations and mechanical testing  
-
----
-
-## Publications
-- Ki, Y., Kim, J. J., & Oh, S. (2025). *Performance analysis of two-stage turbocharged diesel engine under various altitude conditions.* Journal of the Korean Society for Aeronautical and Space Sciences, 53(6), 641–647  
-- Oh, S., Kim, J. J., & Ki, Y. (2025). *Analysis of engine performance based on low-pressure turbocharger boost control strategies.* Journal of the Korean Society for Aeronautical and Space Sciences, 53(3), 291–298  
-
----
-
-## Contact
-📧 Email: ohseokyung1219@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/seokyungoh  
-🌐 Portfolio Site: https://sites.google.com/view/seokyung-oh
+- Conducted battery testing in environmental chambers, chassis dynamometer, and on-road conditions  
+- Collected and analyzed voltage, current, and temperature data using **MATLAB**  
+- Evaluated battery durability, thermal behaviour, and well-to-wheel CO₂ emissions  
