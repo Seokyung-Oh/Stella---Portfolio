@@ -36,7 +36,7 @@ Minor: Sustainable Energy
 ---
 
 ### Battery Research Intern  
-**KAIST** | May 2022 – Aug 2022  
+**Future Transport Power Lab, KAIST** | May 2022 – Aug 2022  
 - Conducted battery testing in environmental chambers, chassis dynamometer, and on-road conditions  
 - Collected and analyzed voltage, current, and temperature data using **MATLAB**  
 - Evaluated battery durability, thermal behavior, and well-to-wheel CO₂ emissions  
