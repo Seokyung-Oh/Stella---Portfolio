@@ -39,4 +39,15 @@ Minor: Sustainable Energy
 **KAIST** | May 2022 – Aug 2022  
 - Conducted battery testing in environmental chambers, chassis dynamometer, and on-road conditions  
 - Collected and analyzed voltage, current, and temperature data using **MATLAB**  
-- Evaluated battery durability, thermal behaviour, and well-to-wheel CO₂ emissions  
+- Evaluated battery durability, thermal behavior, and well-to-wheel CO₂ emissions  
+
+---
+
+## Certificates
+
+- **Lean Six Sigma Green Belt**  
+- **Certified SolidWorks Associate (CSWA)**  
+- **GT-Suite Flow**  
+- **ANSYS Fluent Simulation**  
+- **Basic Machining**  
+- **Worker Health & Safety Awareness (Ontario)**  
