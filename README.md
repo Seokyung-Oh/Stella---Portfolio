@@ -48,12 +48,12 @@ Minor: Sustainable Energy
 
 ## Certificates
 
-- **Lean Six Sigma Green Belt**  
-- **Certified SolidWorks Associate (CSWA)**  
-- **GT-Suite Flow**  
-- **ANSYS Fluent Simulation**  
-- **Basic Machining**  
-- **Worker Health & Safety Awareness (Ontario)**  
+- Lean Six Sigma Green Belt**  
+- Certified SolidWorks Associate (CSWA)**  
+- GT-Suite Flow**  
+- ANSYS Fluent Simulation**  
+- Basic Machining**  
+- Worker Health & Safety Awareness (Ontario)**  
 
 ---
 
