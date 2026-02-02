@@ -57,5 +57,6 @@ Minor: Sustainable Energy
 
 ---
 
+## Publications
 - Performance Analysis of Two-Stage Turbocharged Diesel Engine under Various Altitude Conditions (JKSASS, 2025)
 - Analysis of Engine Performance Based on Low-Pressure Turbocharger Boost Control Strategies under Lean Air Conditions (JKSASS, 2025)
