@@ -1,6 +1,6 @@
 ## About
 
-Mechanical Engineering graduate with experience in **powertrain system simulation, data analysis, and manufacturing process improvement**, developed through research internships and hands-on engineering projects. Focused on translating simulation, test data, and shop-floor observations into practical engineering insights.
+Mechanical Engineer with over 1.5 years of hands-on engineering experience gained through manufacturing internships, research roles, and engineering projects. Experienced in translating simulation results, test data, and shop-floor observations into practical insights for process improvement and quality support. Portfolio and technical work samples available on GitHub.
 
 📄 **[Download Full Engineering Portfolio (PDF)](https://raw.githubusercontent.com/Seokyung-Oh/Stella---Portfolio/main/Portfolio%20-%20Seokyung%20Oh.pdf)**
 
@@ -39,7 +39,7 @@ Minor: Sustainable Energy
 **Future Transport Power Lab, KAIST** | May 2022 – Aug 2022  
 - Conducted battery testing in environmental chambers, chassis dynamometer, and on-road conditions  
 - Collected and analyzed voltage, current, and temperature data using **MATLAB**  
-- Evaluated battery durability, thermal behavior, and well-to-wheel CO₂ emissions  
+- Evaluated battery durability, thermal behaviour, and well-to-wheel CO₂ emissions  
 
 ---
 
