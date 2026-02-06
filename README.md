@@ -19,12 +19,12 @@ Minor: Sustainable Energy
 
 ### Process Engineering Intern  
 **IKO North America** | Brampton, Canada | Nov 2025 – Present  
--	Supported time study and process data collection to analyze the impact of catalyst usage on product quality and process consistency.
--	Conducted internal process and quality audits to verify Standard Operating Procedures (SOP) / Standard Work Instruction (SWI) adherence, identify non-conformances, and support corrective actions.
--	Created, updated, and controlled 20+ SWIs aligned with shop-floor operations.
--	Performed weekly 5S audits and documented deviations to support sustainment.
--	Reviewed P&IDs to support troubleshooting, safety reviews, and lockout/tagout documentation for asphalt and hot oil systems.
--	Documented audit findings and process deviations to support RCA and continuous improvement.
+-	Supported time studies and process data collection to evaluate the impact of catalyst usage on process stability and product outcomes.
+-	Conducted internal process audits to verify adherence to standard work, identify process deviations, and support corrective improvements.
+-	Developed, updated, and reviewed 30+ Standard Work Instructions (SWIs) aligned with shop-floor operations and actual process flow.
+-	Performed weekly 5S audits to assess workplace organization and identify gaps affecting operational efficiency.
+-	Reviewed P&IDs to support process troubleshooting, safety reviews, and lockout/tagout preparation for asphalt and hot oil systems.
+-	Documented process gaps and operational deviations to support root cause analysis and continuous process improvement initiatives.
 
 ---
 
